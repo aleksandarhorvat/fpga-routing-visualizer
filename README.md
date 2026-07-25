@@ -1,4 +1,4 @@
-# PRIS Project – FPGA Routing Visualizer & Analyzer
+# FPGA Routing Visualizer & Analyzer
 
 **Proces razvoja informacionih sistema / Information Systems Development Process**
 
@@ -40,7 +40,7 @@ A Python tool for parsing, visualizing, and analyzing FPGA routing results produ
 ## Project Structure
 
 ```
-pris-project/
+fpga-routing-visualizer/
 ├── parse_all.py              # Entry point – interactive CLI menu
 ├── fpga_project/
 │   ├── __init__.py
@@ -92,8 +92,8 @@ pip install matplotlib bokeh
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/aleksandarhorvat/pris-project.git
-   cd pris-project
+   git clone https://github.com/aleksandarhorvat/fpga-routing-visualizer.git
+   cd fpga-routing-visualizer
    ```
 
 2. **Install dependencies**
